@@ -1,0 +1,18 @@
+# Proxy List
+# Supported formats:
+# 1. ip:port
+# 2. ip:port:username:password
+# 3. username:password@ip:port
+# 4. http://ip:port
+# 5. http://username:password@ip:port
+# 6. socks5://username:password@ip:port
+
+# Examples:
+# 123.45.67.89:8080
+# 123.45.67.89:8080:user:pass
+# user:pass@123.45.67.89:8080
+# http://123.45.67.89:8080
+# http://user:pass@123.45.67.89:8080
+# socks5://user:pass@123.45.67.89:1080
+
+# Add your proxies below:

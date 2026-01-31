@@ -1,0 +1,25 @@
+# Core Dependencies
+playwright==1.41.0
+aiohttp==3.9.1
+colorama==0.4.6
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Fake Data Generation
+names==0.3.0
+phone-gen==0.1.1
+Faker==22.0.0
+
+# API Server
+flask==3.0.0
+flask-cors==4.0.0
+flask-limiter==3.5.0
+
+# Environment & Config
+python-dotenv==1.0.0
+
+# Logging & Monitoring
+loguru==0.7.2
+
+# Utilities
+python-dateutil==2.8.2

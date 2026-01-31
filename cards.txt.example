@@ -1,0 +1,8 @@
+# Card Checker - Cards File
+# Format: card_number|exp_month|exp_year
+# Example: 4242424242424242|12|2025
+
+# Add your cards below (one per line):
+# 4242424242424242|12|2025
+# 5555555555554444|06|2026
+# 378282246310005|03|2027
