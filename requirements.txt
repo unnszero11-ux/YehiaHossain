@@ -7,7 +7,7 @@ requests==2.31.0
 
 # Fake Data Generation
 names==0.3.0
-phone-gen==0.1.1
+phone-gen==3.0.24
 Faker==22.0.0
 
 # API Server
